@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Rituraj-Debnath
+/src/backend/database.py      @Rituraj-Debnath
+/src/backend/routers/auth.py  @Rituraj-Debnath
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Rituraj-Debnath
